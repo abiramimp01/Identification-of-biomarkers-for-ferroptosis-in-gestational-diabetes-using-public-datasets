@@ -1,0 +1,2 @@
+# Identification-of-biomarkers-for-ferroptosis-in-gestational-diabetes-using-public-datasets
+Biomarkers pertaining to ferroptosis were identified by using placental datasets from gestational diabetes subjects. Machine learning tools were applied to those datasets to determine GPX3 as the central marker of ferroptosis. External datasets, placental samples and single cell sequencing datasets were used for validation. 
